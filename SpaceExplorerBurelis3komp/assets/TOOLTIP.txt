@@ -1,0 +1,8 @@
+Pilot a rocket through an asteroid field:
+
+• The rocket is constantly falling down. Rapidly tap the screen to fly upwards.
+• Dodge all asteroids (  ) or your rocket will explode.
+• Collect as many stars (  ) as possible. Collecting multiple stars in a row gives more points.
+• Go through a portal (  ) to complete the level.
+• Your score must be higher that the level's goal to pass it.
+• To access the next level, you must pass the previous one.
